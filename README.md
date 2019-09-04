@@ -1,4 +1,4 @@
 # Gradle Tasks
 Sample
 ### Version Info
-pluginBasics:1.1
+pluginBasics:1.2
